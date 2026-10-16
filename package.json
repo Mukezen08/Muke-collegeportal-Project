@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.11.2",
+    "nodemon": "^3.1.14"
+<<<<<<< HEAD
+  }
+=======
+  },
+  "name": "doodleblueproject.muke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+>>>>>>> c8d3eafc66df77e14c5361ba25bc568c9a9c7da4
+}
